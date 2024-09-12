@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /Media/
+
+# Allow everything else
+Allow: /
